@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-       <p>Here We Go Git Tutorial</p>
+       <p>Here We Go Git Modification And Staging Tutorial</p>
        <p>Git Logs: To Track All Commits</p>
-       <p>Git Status: To Modification And Staging Areas</p>
+       <p>Git Status: To  Areas</p>
        New Sudden Modification
       </header>
     </div>
