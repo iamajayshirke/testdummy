@@ -8,7 +8,7 @@ function App() {
        <p>Here We Go Git Tutorial</p>
        <p>Git Logs: To Track All Commits</p>
        <p>Git Status: To Modification And Staging Areas</p>
-       New Sudden Changes
+       New Sudden Modification
       </header>
     </div>
   );
