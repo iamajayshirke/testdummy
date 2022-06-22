@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
        <p>Here We Go Git Tutorial</p>
        <p>Git Logs: To Track All Commits</p>
-       <p>Git Status: To Track Modification And Staging Areas</p>
+       <p>Git Status: To Modification And Staging Areas</p>
        New Sudden Changes
       </header>
     </div>
